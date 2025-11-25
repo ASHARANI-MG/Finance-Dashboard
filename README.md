@@ -7,30 +7,30 @@ This project showcases a fully interactive Finance Dashboard built in Power BI t
 The **Finance Dashboard** provides a consolidated view of key financial indicators like Net Sales, Profit, Profit Ratio, Units Sold, and Discount Percentage.
 With dynamic filters and intuitive visualizations, stakeholders can easily:
 
-Identify high-performing regions and segments
+- Identify high-performing regions and segments
 
-Compare profitability across product categories
+- Compare profitability across product categories
 
-Track year-wise financial growth
+- Track year-wise financial growth
 
-Monitor discount behaviors and their impact on sales
+- Monitor discount behaviors and their impact on sales
 
-Explore detailed breakdowns with drill-through interactions
+- Explore detailed breakdowns with drill-through interactions
 
 This dashboard helps decision-makers gain actionable insights for strategic planning and performance optimization.
 
 ## 📈 Dashboard Highlights
 🔹 1. KPI Summary
 
-Net Sales
+- **Net Sales**
 
-Total Profit
+- **Total Profit**
 
-Units Sold
+- **Units Sold**
 
-Discount %
+- **Discount %**
 
-Profit Ratio
+- **Net Profit** 
 
 These cards give a quick snapshot of overall performance.
 
@@ -52,11 +52,11 @@ Drill-down visuals allow deeper analysis into product categories and subcategori
 
 🔹 6. Interactive Filters
 
-Date range slider
+- Date range slider
 
-Country/Region filters
+- Country/Region filters
 
-Product & Segment slicers
+- Product & Segment slicers
 
 These allow users to customize their analysis and focus on areas of interest.
 
@@ -64,11 +64,11 @@ These allow users to customize their analysis and focus on areas of interest.
 
 To deliver a comprehensive and intuitive financial reporting tool that enables:
 
-Data-driven decision-making
+- Data-driven decision-making
 
-Improved profit monitoring
+- Improved profit monitoring
 
-Understanding of sales behavior across markets
+- Understanding of sales behavior across markets
 
 Clear visibility into product and segment performance
 
@@ -80,12 +80,12 @@ Clear visibility into product and segment performance
 
 ## 📥 How to Use the Dashboard
 
-Download the file:
+1. Download the file:
 Finance Dashboard.pbix
 
-Open using Power BI Desktop.
+2. Open using Power BI Desktop.
 
-Explore visuals, apply filters, and interact with reports to analyze trends.
+3. Explore visuals, apply filters, and interact with reports to analyze trends.
 
 ## 📸 Dashboard Preview
 
@@ -94,13 +94,13 @@ Explore visuals, apply filters, and interact with reports to analyze trends.
 
 ## 📌 Key Insights Identified
 
-The Corporate segment generates the highest profit share.
+- The Corporate segment generates the highest profit share.
 
-Certain countries contribute significantly more to Net Sales, improving market prioritization.
+- Certain countries contribute significantly more to Net Sales, improving market prioritization.
 
-Profit Ratio shows seasonal variations, indicating potential planning opportunities.
+- Profit Ratio shows seasonal variations, indicating potential planning opportunities.
 
-Some product categories show high units sold but low profit, highlighting pricing or discount inefficiencies.
+- Some product categories show high units sold but low profit, highlighting pricing or discount inefficiencies.
 
 ## 📜 License
 
