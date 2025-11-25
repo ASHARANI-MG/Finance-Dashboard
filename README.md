@@ -73,10 +73,10 @@ Understanding of sales behavior across markets
 Clear visibility into product and segment performance
 
 ## 🛠 Tools & Technologies Used
-Tool	Purpose
-Power BI	Data modeling, dashboard development
-Excel	Data cleaning and preparation
-DAX	Measures and calculations for metrics
+- Tool	Purpose
+- Power BI	Data modeling, dashboard development
+- Excel	Data cleaning and preparation
+- DAX	Measures and calculations for metrics
 
 ## 📥 How to Use the Dashboard
 
@@ -89,9 +89,7 @@ Explore visuals, apply filters, and interact with reports to analyze trends.
 
 ## 📸 Dashboard Preview
 
-(You can add images here once uploaded)
-
-![Dashboard Preview](path/to/image.png)
+![Dashboard Screenshot](Finance-Dashboard/Images/Dashboard.png)  
 
 ## 📌 Key Insights Identified
 
