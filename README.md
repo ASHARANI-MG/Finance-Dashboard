@@ -89,7 +89,7 @@ Explore visuals, apply filters, and interact with reports to analyze trends.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Finance-Dashboard/Images/Dashboard.png)  
+![Dashboard](Finance-Dashboard/Images/Dashboard.png)  
 
 ## 📌 Key Insights Identified
 
