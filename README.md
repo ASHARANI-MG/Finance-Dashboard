@@ -89,7 +89,8 @@ Explore visuals, apply filters, and interact with reports to analyze trends.
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Finance-Dashboard/Images/Dashboard.png)  
+![Dashboard Preview](Power%20BI/Images/Dashboard.png)
+
 
 ## 📌 Key Insights Identified
 
