@@ -106,7 +106,6 @@ Finance Dashboard.pbix
 
 This project is for educational and portfolio purposes only.
 
----
 
 ## ✨ Created By
 
